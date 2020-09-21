@@ -1,3 +1,7 @@
+nav {
+    color: #CFB1B7;
+    background-color: #8D9F87;
+}
 .jumbotron {
     background-color: #36382E;
     color: #CFB1B7;
@@ -8,16 +12,17 @@
 }
 .course-contents {
    background-color: #8D9F87; 
-   color: #A44A3F;
+   color: #CFB1B7;
    padding: 5px;
-   display: inline-flex;
    flex-wrap: wrap;
-   justify-content: center;
+   display: flex;
+   width: auto;
    margin-left: auto;
    margin-right: auto;
 }
 body {
     background-color: #8D9F87;
+    width: 100vw;
 }
 .session {
     background-color: #57467B ;
@@ -29,4 +34,8 @@ body {
     border: none;
     margin: none;
     background-color: #8D9F87;
+}
+section {
+    margin-left: auto;
+    margin-right: auto;
 }
