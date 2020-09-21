@@ -1,14 +1,24 @@
 nav {
     color: #CFB1B7;
     background-color: #8D9F87;
+    border: solid 2px #36382E;
 }
 .jumbotron {
     background-color: #36382E;
     color: #CFB1B7;
 }
 .jumbotron img {
-    flex-wrap: wrap;
-    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    display: block;
+    padding: 20px;
+}
+.jumbotron h1 {
+    text-align: center;
+}
+.jumbotron p {
+    text-align: justify;
 }
 .course-contents {
    background-color: #8D9F87; 
@@ -38,4 +48,13 @@ body {
 section {
     margin-left: auto;
     margin-right: auto;
+}
+.Javascript-game {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+}
+.contact-me {
+    text-align: center;
 }
