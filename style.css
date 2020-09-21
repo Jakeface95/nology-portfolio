@@ -31,6 +31,9 @@ nav {
    margin-left: auto;
    margin-right: auto;
 }
+.course-contents p {
+   width: 95%;
+}
 body {
     background-color: #8D9F87;
     width: 100vw;
