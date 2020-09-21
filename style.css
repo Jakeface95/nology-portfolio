@@ -1,0 +1,32 @@
+.jumbotron {
+    background-color: #36382E;
+    color: #CFB1B7;
+}
+.jumbotron img {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.course-contents {
+   background-color: #8D9F87; 
+   color: #A44A3F;
+   padding: 5px;
+   display: inline-flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+body {
+    background-color: #8D9F87;
+}
+.session {
+    background-color: #57467B ;
+    color: #CFB1B7;
+    border: solid 2px #36382E;
+    margin: 15px;
+}
+.card spacer {
+    border: none;
+    margin: none;
+    background-color: #8D9F87;
+}
