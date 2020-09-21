@@ -10,6 +10,7 @@ nav {
 .jumbotron img {
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
     width: auto;
     display: block;
     padding: 20px;
@@ -36,7 +37,7 @@ body {
 }
 .session {
     background-color: #57467B ;
-    color: #CFB1B7;
+    color:  #CFB1B7;
     border: solid 2px #36382E;
     margin: 15px;
 }
@@ -57,4 +58,5 @@ section {
 }
 .contact-me {
     text-align: center;
+    color:  #CFB1B7;
 }
