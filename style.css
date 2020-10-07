@@ -2,10 +2,12 @@ nav {
     color: #03045e;
     background-color: #caf0f8;
     border: solid 2px #48cae4;
+    font-family: Lucida;
 }
 .jumbotron {
     background-color: #48cae4;
     color: #03045e;
+    font-family: Lucida;
 }
 .jumbotron img {
     margin-left: auto;
@@ -17,6 +19,7 @@ nav {
 }
 .jumbotron h1 {
     text-align: center;
+    font-family: Lucida;
 }
 .jumbotron p {
     text-align: justify;
@@ -30,6 +33,7 @@ nav {
    width: auto;
    margin-left: auto;
    margin-right: auto;
+   font-family: Lucida;
 }
 .course-contents p {
    width: 95%;
@@ -43,6 +47,7 @@ body {
     color:  #03045e;
     border: solid 2px #48cae4;
     margin: 15px;
+    font-family: Lucida;
 }
 .card spacer {
     border: none;
@@ -52,16 +57,20 @@ body {
 section {
     margin-left: auto;
     margin-right: auto;
+    font-family: Lucida;
 }
 .contact-me {
     text-align: center;
     color:  #03045e;
+    font-family: Lucida;
 }
 .Javascript-game p{
     justify-content: center;
     text-align: center;
+    font-family: Lucida;
 }
 .Javascript-game h2{
     justify-content: center;
     text-align: center;
+    font-family: Lucida;
 }
