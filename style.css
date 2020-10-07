@@ -1,11 +1,11 @@
 nav {
-    color: #CFB1B7;
-    background-color: #8D9F87;
-    border: solid 2px #36382E;
+    color: #03045e;
+    background-color: #caf0f8;
+    border: solid 2px #48cae4;
 }
 .jumbotron {
-    background-color: #36382E;
-    color: #CFB1B7;
+    background-color: #48cae4;
+    color: #03045e;
 }
 .jumbotron img {
     margin-left: auto;
@@ -22,8 +22,8 @@ nav {
     text-align: justify;
 }
 .course-contents {
-   background-color: #8D9F87; 
-   color: #CFB1B7;
+   background-color: #caf0f8; 
+   color: #03045e;
    padding: 5px;
    flex-wrap: wrap;
    display: flex;
@@ -35,19 +35,19 @@ nav {
    width: 95%;
 }
 body {
-    background-color: #8D9F87;
+    background-color:#caf0f8;
     width: 100vw;
 }
 .session {
-    background-color: #36382E ;
-    color:  #CFB1B7;
-    border: solid 2px #36382E;
+    background-color: #48cae4;
+    color:  #03045e;
+    border: solid 2px #48cae4;
     margin: 15px;
 }
 .card spacer {
     border: none;
     margin: none;
-    background-color: #8D9F87;
+    background-color: #03045e;
 }
 section {
     margin-left: auto;
@@ -55,7 +55,7 @@ section {
 }
 .contact-me {
     text-align: center;
-    color:  #CFB1B7;
+    color:  #03045e;
 }
 .Javascript-game p{
     justify-content: center;
